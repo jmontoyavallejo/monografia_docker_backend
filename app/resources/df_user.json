@@ -1,0 +1,87 @@
+[
+  {
+    "marital_status": [
+      "M",
+      "S"
+    ]
+  },
+  {
+    "gender": [
+      "F",
+      "M"
+    ]
+  },
+  {
+    "total_children": [
+      1.0,
+      0.0,
+      4.0,
+      2.0,
+      3.0,
+      5.0
+    ]
+  },
+  {
+    "education": [
+      "Partial High School",
+      "Bachelors Degree",
+      "High School Degree",
+      "Graduate Degree",
+      "Partial College"
+    ]
+  },
+  {
+    "member_card": [
+      "Normal",
+      "Silver",
+      "Bronze",
+      "Golden"
+    ]
+  },
+  {
+    "occupation": [
+      "Skilled Manual",
+      "Professional",
+      "Manual",
+      "Management",
+      "Clerical"
+    ]
+  },
+  {
+    "houseowner": [
+      "Y",
+      "N"
+    ]
+  },
+  {
+    "avg_cars_at home(approx)": [
+      1.0,
+      4.0,
+      2.0,
+      3.0,
+      0.0
+    ]
+  },
+  {
+    "avg. yearly_income": [
+      "$10K - $30K",
+      "$50K - $70K",
+      "$30K - $50K",
+      "$70K - $90K",
+      "$110K - $130K",
+      "$130K - $150K",
+      "$150K +",
+      "$90K - $110K"
+    ]
+  },
+  {
+    "num_children_at_home": [
+      1.0,
+      0.0,
+      2.0,
+      3.0,
+      5.0,
+      4.0
+    ]
+  }
+]

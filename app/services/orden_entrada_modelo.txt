@@ -1,0 +1,145 @@
+unit_sales(in millions)
+total_children
+avg_cars_at home(approx)
+num_children_at_home
+SRP
+net_weight
+recyclable_package
+low_fat
+units_per_case
+grocery_sqft
+frozen_sqft
+coffee_bar
+video_store
+prepared_food
+florist
+food_family_Drink
+food_family_Food
+food_family_Non-Consumable
+promotion_name_Bag Stuffers
+promotion_name_Best Savings
+promotion_name_Big Promo
+promotion_name_Big Time Discounts
+promotion_name_Big Time Savings
+promotion_name_Bye Bye Baby
+promotion_name_Cash Register Lottery
+promotion_name_Coupon Spectacular
+promotion_name_Dimes Off
+promotion_name_Dollar Cutters
+promotion_name_Dollar Days
+promotion_name_Double Down Sale
+promotion_name_Double Your Savings
+promotion_name_Fantastic Discounts
+promotion_name_Free For All
+promotion_name_Go For It
+promotion_name_Green Light Days
+promotion_name_Green Light Special
+promotion_name_High Roller Savings
+promotion_name_I Cant Believe It Sale
+promotion_name_Money Savers
+promotion_name_Mystery Sale
+promotion_name_One Day Sale
+promotion_name_Pick Your Savings
+promotion_name_Price Cutters
+promotion_name_Price Destroyers
+promotion_name_Price Savers
+promotion_name_Price Slashers
+promotion_name_Price Smashers
+promotion_name_Price Winners
+promotion_name_Sale Winners
+promotion_name_Sales Days
+promotion_name_Sales Galore
+promotion_name_Save-It Sale
+promotion_name_Saving Days
+promotion_name_Savings Galore
+promotion_name_Shelf Clearing Days
+promotion_name_Shelf Emptiers
+promotion_name_Super Duper Savers
+promotion_name_Super Savers
+promotion_name_Super Wallet Savers
+promotion_name_Three for One
+promotion_name_Tip Top Savings
+promotion_name_Two Day Sale
+promotion_name_Two for One
+promotion_name_Unbeatable Price Savers
+promotion_name_Wallet Savers
+promotion_name_Weekend Markdown
+promotion_name_You Save Days
+sales_country_Canada
+sales_country_Mexico
+sales_country_USA
+marital_status_M
+marital_status_S
+gender_F
+gender_M
+education_Bachelors Degree
+education_Graduate Degree
+education_High School Degree
+education_Partial College
+education_Partial High School
+member_card_Bronze
+member_card_Golden
+member_card_Normal
+member_card_Silver
+occupation_Clerical
+occupation_Management
+occupation_Manual
+occupation_Professional
+occupation_Skilled Manual
+houseowner_N
+houseowner_Y
+avg. yearly_income_$10K - $30K
+avg. yearly_income_$110K - $130K
+avg. yearly_income_$130K - $150K
+avg. yearly_income_$150K +
+avg. yearly_income_$30K - $50K
+avg. yearly_income_$50K - $70K
+avg. yearly_income_$70K - $90K
+avg. yearly_income_$90K - $110K
+store_type_Deluxe Supermarket
+store_type_Gourmet Supermarket
+store_type_Mid-Size Grocery
+store_type_Small Grocery
+store_type_Supermarket
+store_city_Acapulco
+store_city_Bellingham
+store_city_Beverly Hills
+store_city_Bremerton
+store_city_Camacho
+store_city_Guadalajara
+store_city_Hidalgo
+store_city_Los Angeles
+store_city_Merida
+store_city_Mexico City
+store_city_Orizaba
+store_city_Portland
+store_city_Salem
+store_city_San Francisco
+store_city_Seattle
+store_city_Spokane
+store_city_Tacoma
+store_city_Vancouver
+store_city_Victoria
+store_state_BC
+store_state_CA
+store_state_DF
+store_state_Guerrero
+store_state_Jalisco
+store_state_OR
+store_state_Veracruz
+store_state_WA
+store_state_Yucatan
+store_state_Zacatecas
+media_type_Bulk Mail
+media_type_Cash Register Handout
+media_type_Daily Paper
+media_type_Daily Paper, Radio
+media_type_Daily Paper, Radio, TV
+media_type_In-Store Coupon
+media_type_Product Attachment
+media_type_Radio
+media_type_Street Handout
+media_type_Sunday Paper
+media_type_Sunday Paper, Radio
+media_type_Sunday Paper, Radio, TV
+media_type_TV

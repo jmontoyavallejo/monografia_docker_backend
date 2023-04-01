@@ -1,0 +1,8 @@
+pandas
+fastapi[all]
+scikit-learn
+ipykernel
+matplotlib
+seaborn
+statsmodels
+sklearn

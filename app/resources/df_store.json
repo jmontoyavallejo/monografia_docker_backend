@@ -1,0 +1,114 @@
+[
+  {
+    "store_type": [
+      "Deluxe Supermarket",
+      "Supermarket",
+      "Gourmet Supermarket",
+      "Small Grocery",
+      "Mid-Size Grocery"
+    ]
+  },
+  {
+    "store_state": [
+      "OR",
+      "WA",
+      "CA",
+      "Veracruz",
+      "Yucatan",
+      "Zacatecas",
+      "DF",
+      "BC",
+      "Jalisco",
+      "Guerrero"
+    ]
+  },
+  {
+    "grocery_sqft": [
+      18670.0,
+      22123.0,
+      13305.0,
+      22063.0,
+      14210.0,
+      15337.0,
+      16232.0,
+      22271.0,
+      26354.0,
+      20141.0,
+      30351.0,
+      21938.0,
+      22450.0,
+      16418.0,
+      24390.0,
+      16844.0,
+      15012.0,
+      17475.0,
+      15321.0,
+      27463.0
+    ]
+  },
+  {
+    "frozen_sqft": [
+      5415.0,
+      7041.0,
+      4746.0,
+      4923.0,
+      5633.0,
+      5011.0,
+      2452.0,
+      3561.0,
+      5062.0,
+      6393.0,
+      4819.0,
+      5188.0,
+      8435.0,
+      4016.0,
+      9184.0,
+      4149.0,
+      5751.0,
+      3671.0,
+      4294.0,
+      4193.0
+    ]
+  },
+  {
+    "coffee_bar": [
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "video_store": [
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "prepared_food": [
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "florist": [
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "media_type": [
+      "Daily Paper, Radio",
+      "In-Store Coupon",
+      "Radio",
+      "Daily Paper",
+      "Product Attachment",
+      "Sunday Paper, Radio",
+      "Sunday Paper, Radio, TV",
+      "Sunday Paper",
+      "Street Handout",
+      "TV",
+      "Bulk Mail",
+      "Cash Register Handout",
+      "Daily Paper, Radio, TV"
+    ]
+  }
+]
